@@ -7,7 +7,7 @@ int largo, ancho, **puntero, **puntero2, aux, **punt;
 void imprecion(int **puntero, int largo, int ancho);
 
 int main()
-{
+{ 
     printf("introduce el ancho de la metrix ");
     scanf("%d", &ancho);
     printf("introduce el largo de la metrix ");
